@@ -1,4 +1,5 @@
 # vuex-demo
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -25,3 +26,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+vuex-demo
+>>>>>>> 0241a20cf48c5d9e9dfcd17784ec50e134d9df6b
